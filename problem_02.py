@@ -4,7 +4,7 @@
 # Simple Calculator Program
 
 def main():
-    pass  # replace this line with all of your code
+    pass:  # replace this line with all of your code
     
     print("Square the Number Program")
     
