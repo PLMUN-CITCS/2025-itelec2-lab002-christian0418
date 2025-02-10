@@ -1,6 +1,6 @@
-# YOUR NAME
+# CHRISTIAN TAN
 # ITELEC2
-# Problem Set 02 - Problem 02
+# Problem Set 01 - Problem 02
 # Simple Calculator Program
 
 def main():
